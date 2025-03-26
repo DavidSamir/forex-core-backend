@@ -21,5 +21,5 @@ A Node.js/TypeScript backend CRM for forex trading. Users can register, log in, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/forex-crm-backend.git
+   git clone https://github.com/davidSamir/forex-core-backend.git
    cd forex-crm-backend
